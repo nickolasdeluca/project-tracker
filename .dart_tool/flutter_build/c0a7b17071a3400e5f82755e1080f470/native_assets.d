@@ -1,0 +1,1 @@
+ /Users/nickolasdeluca/Documents/GitHub/project_tracker/.dart_tool/flutter_build/c0a7b17071a3400e5f82755e1080f470/native_assets.yaml: 
